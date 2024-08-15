@@ -5,7 +5,7 @@
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![MIT license](http://img.shields.io/badge/license-MIT-blue.svg)](http://mooyoul.mit-license.org/)
 
-GitHub action that checks ticket availability in Melon Ticket (Korean online ticket store) website.
+GitHub action that checks ticket availability in Melon Ticket (Korean online ticket store) website. hello
 
 ~~암표상들 다 망해라~~ 그리핀 내한공연 보게 해주세요 🙏
 
